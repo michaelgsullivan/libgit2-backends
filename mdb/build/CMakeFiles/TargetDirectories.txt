@@ -1,0 +1,3 @@
+/home/mike/repos/libgit2-backends/mdb/build/CMakeFiles/rebuild_cache.dir
+/home/mike/repos/libgit2-backends/mdb/build/CMakeFiles/edit_cache.dir
+/home/mike/repos/libgit2-backends/mdb/build/CMakeFiles/git2-mdb.dir

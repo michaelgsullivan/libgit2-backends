@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mike/repos/libgit2-backends/mdb/mdb.c
+assert.h
+-
+string.h
+-
+git2.h
+-
+git2/sys/odb_backend.h
+-
+sqlite3.h
+-
+

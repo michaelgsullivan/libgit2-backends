@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libgit2-mdb.so -o libgit2-mdb.so CMakeFiles/git2-mdb.dir/mdb.c.o -lgit2 -llmdb 
